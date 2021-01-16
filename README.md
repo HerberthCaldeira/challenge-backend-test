@@ -9,7 +9,7 @@
 To run this porject, clone the repository and run everything with docker-compose
 
 ```sh
-git clone
+git clone https://Herberthcaldeira@bitbucket.org/Herberthcaldeira/challenge-backend-test.git
 cd challenge-backend-test
 sudo docker-compose up
 ```
